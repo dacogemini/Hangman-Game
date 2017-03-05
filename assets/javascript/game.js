@@ -32,7 +32,7 @@ function startUp() {
   document.getElementById("answer").innerHTML = s;
 }
 
-function letter () {
+function letter() {
   var letter = document.getElementById("letter").value;
 
   if (letter.length > 0) {
